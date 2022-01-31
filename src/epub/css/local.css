@@ -3,18 +3,18 @@
 
 #chapter-1-3 blockquote:last-of-type,
 #chapter-4-2 blockquote:first-of-type{
-	text-align: center;
 	font-variant: small-caps;
+	text-align: center;
 }
 
 #chapter-1-3 blockquote:nth-of-type(2){
-	text-align: center;
 	font-style: italic;
+	text-align: center;
 }
 
 [epub|type~="z3998:letter"] header{
-	text-align: right;
 	margin-bottom: 1em;
+	text-align: right;
 }
 
 footer{
